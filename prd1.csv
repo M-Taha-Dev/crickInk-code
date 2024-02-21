@@ -1,0 +1,930 @@
+OverNumber,Bowlers_Name,Bowler_Type,Batsman_Name,Runs,Delivery_Length,Delivery_Line,Shot_Field_Position
+18.5,Richard Ngarava,Fast,Babar Azam,1,FullLength,Middle,LongOff
+18.4,Richard Ngarava,Fast,Babar Azam,4,FullLength,Middle,DeepFineLeg
+18.2,Richard Ngarava,Fast,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+17.6,Tabraiz Shamsi,Spin,Babar Azam,1,FullLength,Middle,DeepCover
+17.1,Tabraiz Shamsi,Spin,Babar Azam,1,FullLength,Middle,DeepMidWicket
+16.6,Richard Ngarava,Fast,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+16.5,Richard Ngarava,Fast,Babar Azam,2,fulltoss,Middle,LongOff
+16.4,Richard Ngarava,Fast,Babar Azam,4,FullLength,Middle,ThirdMan
+16.3,Richard Ngarava,Fast,Babar Azam,0,FullLength,Middle,MidOn
+15.6,Shakib Al Hasan,Spin,Babar Azam,6,FullLength,Middle,LongOff
+15.3,Shakib Al Hasan,Spin,Babar Azam,1,FullLength,Middle,DeepCover
+15.1,Shakib Al Hasan,Spin,Babar Azam,1,GoodLength,Middle,LongOff
+14.6,Kasun Rajitha,Medium,Babar Azam,1,FullLength,Middle,DeepSquareLeg
+14.3,Kasun Rajitha,Medium,Babar Azam,1,GoodLength,Middle,DeepCover
+14.2,Kasun Rajitha,Medium,Babar Azam,6,GoodLength,Middle,LongOff
+14.1,Kasun Rajitha,Medium,Babar Azam,2,GoodLength,Middle,LongOff
+13.6,Akila Dananjaya,Spin,Babar Azam,1,FullLength,Middle,LongOff
+13.5,Akila Dananjaya,Spin,Babar Azam,2,FullLength,Middle,DeepMidWicket
+13.4,Akila Dananjaya,Spin,Babar Azam,4,GoodLength,Middle,DeepCover
+13.3,Akila Dananjaya,Spin,Babar Azam,6,FullLength,Middle,LongOff
+13.2,Akila Dananjaya,Spin,Babar Azam,6,FullLength,Middle,LongOff
+13.1,Akila Dananjaya,Spin,Babar Azam,0,GoodLength,Middle,MidWicket
+11.3,Shakib Al Hasan,Spin,Babar Azam,1,FullLength,Middle,LongOff
+11.2,Shakib Al Hasan,Spin,Babar Azam,2,FullLength,Middle,DeepCover
+10.5,Tabraiz Shamsi,Spin,Babar Azam,1,GoodLength,Middle,DeepSquareLeg
+10.4,Tabraiz Shamsi,Spin,Babar Azam,0,FullLength,Middle,MidWicket
+10.3,Tabraiz Shamsi,Spin,Babar Azam,2,GoodLength,Middle,DeepCover
+9.5,Akila Dananjaya,Spin,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+9.3,Akila Dananjaya,Spin,Babar Azam,1,FullLength,Middle,DeepMidWicket
+9.2,Akila Dananjaya,Spin,Babar Azam,4,FullLength,Middle,DeepCover
+9.2,Akila Dananjaya,Spin,Babar Azam,6,FullLength,Middle,LongOff
+9.1,Akila Dananjaya,Spin,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+7.6,Akila Dananjaya,Spin,Babar Azam,1,GoodLength,Middle,DeepPoint
+7.4,Akila Dananjaya,Spin,Babar Azam,1,FullLength,Middle,DeepMidWicket
+7.2,Akila Dananjaya,Spin,Babar Azam,1,FullLength,Middle,shortCover
+6.4,Dasun Shanaka,Medium,Babar Azam,1,GoodLength,Middle,DeepFineLeg
+6.2,Dasun Shanaka,Medium,Babar Azam,1,FullLength,Middle,DeepCover
+5.5,Tabraiz Shamsi,Spin,Babar Azam,1,GoodLength,Middle,DeepSquareLeg
+5.3,Tabraiz Shamsi,Spin,Babar Azam,6,FullLength,Middle,DeepMidWicket
+5.2,Tabraiz Shamsi,Spin,Babar Azam,0,GoodLength,Middle,shortCover
+4.6,Richard Ngarava,Fast,Babar Azam,2,GoodLength,Middle,DeepFineLeg
+4.4,Richard Ngarava,Fast,Babar Azam,4,GoodLength,Middle,DeepPoint
+3.4,Shakib Al Hasan,Spin,Babar Azam,1,FullLength,Middle,LongOff
+3.1,Shakib Al Hasan,Spin,Babar Azam,1,FullLength,Middle,DeepCover
+2.3,Richard Ngarava,Fast,Babar Azam,1,GoodLength,Middle,LongOff
+2.1,Richard Ngarava,Fast,Babar Azam,1,GoodLength,Middle,DeepSquareLeg
+1.6,Shakib Al Hasan,Spin,Babar Azam,1,FullLength,Middle,DeepMidWicket
+1.5,Shakib Al Hasan,Spin,Babar Azam,0,GoodLength,Middle,DeepSquareLeg
+1.3,Shakib Al Hasan,Spin,Babar Azam,1,FullLength,Middle,DeepCover
+1.1,Shakib Al Hasan,Spin,Babar Azam,1,FullLength,Middle,DeepMidWicket
+0.6,Kasun Rajitha,Medium,Babar Azam,1,GoodLength,Middle,Point
+0.5,Kasun Rajitha,Medium,Babar Azam,4,FullLength,Middle,DeepSquareLeg
+0.4,Kasun Rajitha,Medium,Babar Azam,4,GoodLength,Middle,DeepCover
+0.3,Kasun Rajitha,Medium,Babar Azam,4,FullLength,Middle,DeepSquareLeg
+12.2,Trent Boult,Fast,Babar Azam,1,FullLength,Middle,FineLeg
+11.5,Ish Sodhi,Spin,Babar Azam,1,GoodLength,Middle,LongOff
+11.2,Ish Sodhi,Spin,Babar Azam,1,FullLength,Middle,SquareLeg
+10.6,LH Ferguson,Fast,Babar Azam,2,FullLength,Middle,MidWicket
+10.5,LH Ferguson,Fast,Babar Azam,0,FullLength,Middle,MidWicket
+10.4,LH Ferguson,Fast,Babar Azam,4,ShortLength,Middle,MidWicket
+10.2,LH Ferguson,Fast,Babar Azam,1,GoodLength,Middle,ThirdMan
+9.6,Ish Sodhi,Spin,Babar Azam,2,GoodLength,Middle,Point
+9.5,Ish Sodhi,Spin,Babar Azam,4,GoodLength,Middle,Point
+9.3,Ish Sodhi,Spin,Babar Azam,1,ShortLength,Middle,SquareLeg
+9.1,Ish Sodhi,Spin,Babar Azam,1,GoodLength,Middle,Point
+8.5,Mitchell Santner,Spin,Babar Azam,1,GoodLength,Middle,Cover
+8.2,Mitchell Santner,Spin,Babar Azam,1,ShortLength,Middle,MidWicket
+8.1,Mitchell Santner,Spin,Babar Azam,0,GoodLength,Middle,Cover
+7.6,Ish Sodhi,Spin,Babar Azam,1,GoodLength,Middle,MidWicket
+7.4,Ish Sodhi,Spin,Babar Azam,1,ShortLength,Middle,MidWicket
+7.2,Ish Sodhi,Spin,Babar Azam,1,GoodLength,Middle,MidWicket
+7.1,Ish Sodhi,Spin,Babar Azam,0,GoodLength,Middle,Cover
+6.6,Mitchell Santner,Spin,Babar Azam,1,GoodLength,Middle,ThirdMan
+6.5,Mitchell Santner,Spin,Babar Azam,4,GoodLength,Middle,SquareLeg
+6.3,Mitchell Santner,Spin,Babar Azam,1,GoodLength,Middle,Cover
+6.2,Mitchell Santner,Spin,Babar Azam,0,FullLength,Middle,Cover
+5.5,LH Ferguson,Fast,Babar Azam,1,GoodLength,Middle,ThirdMan
+5.4,LH Ferguson,Fast,Babar Azam,4,GoodLength,Middle,Point
+5.1,LH Ferguson,Fast,Babar Azam,1,GoodLength,Middle,MidWicket
+4.6,Tim Southee,Fast,Babar Azam,1,GoodLength,Middle,SquareLeg
+4.5,Tim Southee,Fast,Babar Azam,4,FullLength,Middle,SquareLeg
+4.4,Tim Southee,Fast,Babar Azam,0,GoodLength,Middle,ThirdMan
+3.6,LH Ferguson,Fast,Babar Azam,1,GoodLength,Middle,Point
+3.3,LH Ferguson,Fast,Babar Azam,1,ShortLength,Middle,ThirdMan
+3.2,LH Ferguson,Fast,Babar Azam,2,GoodLength,Middle,ThirdMan
+3.1,LH Ferguson,Fast,Babar Azam,4,FullLength,Middle,StraightHit
+2.3,Trent Boult,Fast,Babar Azam,1,GoodLength,Middle,ThirdMan
+2.2,Trent Boult,Fast,Babar Azam,4,GoodLength,Middle,Point
+1.6,Tim Southee,Fast,Babar Azam,1,GoodLength,Middle,MidWicket
+1.3,Tim Southee,Fast,Babar Azam,0,GoodLength,Middle,Point
+0.6,Trent Boult,Fast,Babar Azam,0,GoodLength,Middle,Point
+8,Hendricks,Fast,Babar Azam,1,FullLength,Off,DeepMidWicket
+6,Magala,Fast,Babar Azam,0,ShortLength,Off,DeepCover
+5,Hendricks,Fast,Babar Azam,1,GoodLength,OutsideOff,DeepMidWicket
+5,Hendricks,Fast,Babar Azam,4,FullLength,OutsideOff,DeepBackwardPoint
+4,Linde,Spin,Babar Azam,1,GoodLength,OutsideOff,LongOn
+4,Linde,Spin,Babar Azam,4,ShortLength,OutsideOff,ThirdMan
+4,Magala,Fast,Babar Azam,2,FullLength,OutsideOff,DeepMidWicket
+3,Magala,Fast,Babar Azam,1,ShortLength,OutsideOff,LongOff
+3,Williams,Fast,Babar Azam,2,ShortLength,OutsideOff,DeepCover
+2,Hendricks,Fast,Babar Azam,4,FullLength,OutsideOff,ThirdMan
+17,Shamsi,Spin,Babar Azam,1,FullLength,OutsideLeg,DeepFineLeg
+17,Shamsi,Spin,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+16,Magala,Fast,Babar Azam,1,FullLength,Middle,BehindSquare
+15,Shamsi,Spin,Babar Azam,0,ShortLength,OutsideOff,DeepFineLeg
+14,Magala,Fast,Babar Azam,1,ShortLength,OutsideOff,ExraCover
+13,Magala,Fast,Babar Azam,1,FullLength,Off,DeepMidWicket
+6,Linde,Spin,Babar Azam,0,GoodLength,OutsideOff,DeepCover
+1,Williams,Fast,Babar Azam,4,GoodLength,Wide,ThirdMan
+13,Jongwe,Fast,Babar Azam,0,ShortLength,Off,DeepCover
+12,Madhevere,Spin,Babar Azam,1,GoodLength,OutsideOff,DeepMidWicket
+11,Burl,Spin,Babar Azam,4,GoodLength,OutsideOff,DeepBackwardPoint
+11,Burl,Spin,Babar Azam,1,GoodLength,OutsideOff,LongOn
+11,Burl,Spin,Babar Azam,4,GoodLength,OutsideOff,ThirdMan
+11,Madhevere,Spin,Babar Azam,2,GoodLength,OutsideOff,DeepMidWicket
+10,Burl,Spin,Babar Azam,1,FullLength,OutsideOff,LongOff
+10,Masakadza,Fast,Babar Azam,2,ShortLength,OutsideOff,DeepCover
+9,Masakadza,Fast,Babar Azam,4,GoodLength,OutsideOff,ThirdMan
+8,Burl,Spin,Babar Azam,1,GoodLength,OutsideLeg,DeepFineLeg
+7,Burl,Spin,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+6,Masakadza,Fast,Babar Azam,1,GoodLength,Middle,BehindSquare
+7,Masakadza,Fast,Babar Azam,0,GoodLength,OutsideOff,DeepFineLeg
+6,Madhevere,Spin,Babar Azam,1,GoodLength,OutsideOff,ExraCover
+5,Ngarava,Fast,Babar Azam,0,FullLength,OutsideOff,DeepCover
+6,Muzarabani,Fast,Babar Azam,4,ShortLength,Wide,ThirdMan
+12,Masakadza,Fast,Babar Azam,0,GoodLength,Off,DeepCover
+10,Jongwe,Fast,Babar Azam,1,ShortLength,OutsideOff,LongOn
+9,Masakadza,Fast,Babar Azam,2,GoodLength,OutsideOff,DeepMidWicket
+9,Burl,Spin,Babar Azam,2,FullLength,OutsideOff,DeepCover
+8,Burl,Spin,Babar Azam,4,FullLength,OutsideOff,ThirdMan
+7,Masakadza,Fast,Babar Azam,1,FullLength,OutsideLeg,DeepFineLeg
+7,Masakadza,Fast,Babar Azam,1,ShortLength,Middle,DeepMidWicket
+6,Burl,Spin,Babar Azam,1,ShortLength,Middle,BehindSquare
+4,Masakadza,Fast,Babar Azam,0,ShortLength,OutsideOff,DeepFineLeg
+3,Willey,Fast,Babar Azam,1,Yorker,OutsideOff,ExraCover
+2,Gregory,Fast,Babar Azam,1,GoodLength,Off,DeepMidWicket
+11,Muzarabani,Fast,Babar Azam,0,ShortLength,OutsideOff,DeepCover
+8,Mohammad Ilyas,Fast,Babar Azam,4,FullLength,Wide,ThirdMan
+5,Irfan,Fast,Babar Azam,0,ShortLength,Off,DeepCover
+4,Irfan,Fast,Babar Azam,1,GoodLength,OutsideOff,DeepMidWicket
+3,Junaid,Fast,Babar Azam,4,FullLength,OutsideOff,DeepBackwardPoint
+3,Junaid,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOn
+3,Junaid,Fast,Babar Azam,4,FullLength,OutsideOff,ThirdMan
+3,Junaid,Fast,Babar Azam,2,GoodLength,OutsideOff,DeepMidWicket
+18,Green,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOff
+17,Junaid,Fast,Babar Azam,2,GoodLength,OutsideOff,DeepCover
+17,Junaid,Fast,Babar Azam,4,ShortLength,OutsideOff,ThirdMan
+16,Green,Fast,Babar Azam,1,GoodLength,OutsideLeg,DeepFineLeg
+15,Green,Fast,Babar Azam,1,ShortLength,Middle,DeepMidWicket
+15,Irfan,Fast,Babar Azam,1,ShortLength,Middle,BehindSquare
+14,Haris Rauf,Fast,Babar Azam,0,ShortLength,OutsideOff,DeepFineLeg
+12,Viljoen,Fast,Babar Azam,1,GoodLength,OutsideOff,ExraCover
+12,Viljoen,Fast,Babar Azam,1,FullLength,Off,DeepMidWicket
+5,Shaheen Shah Afridi,Fast,Babar Azam,0,FullLength,OutsideOff,DeepCover
+19,Irfan,Fast,Babar Azam,4,GoodLength,Wide,ThirdMan
+11,Wiese,Fast,Babar Azam,0,FullLength,Off,DeepCover
+11,Lamichhane,Spin,Babar Azam,1,GoodLength,OutsideOff,DeepMidWicket
+10,Lamichhane,Spin,Babar Azam,4,FullLength,OutsideOff,DeepBackwardPoint
+10,Cheema,Fast,Babar Azam,4,ShortLength,OutsideOff,ThirdMan
+10,Cheema,Fast,Babar Azam,2,ShortLength,OutsideOff,DeepMidWicket
+9,Mohammad Ilyas,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOff
+8,Irfan,Fast,Babar Azam,2,ShortLength,OutsideOff,DeepCover
+6,Irfan,Fast,Babar Azam,1,GoodLength,OutsideLeg,DeepFineLeg
+17,Irfan,Fast,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+7,Irfan,Fast,Babar Azam,1,FullLength,Middle,BehindSquare
+6,Irfan,Fast,Babar Azam,0,ShortLength,OutsideOff,DeepFineLeg
+3,Mohammad Hasnain,Fast,Babar Azam,1,GoodLength,OutsideOff,ExraCover
+3,Mohammad Hasnain,Fast,Babar Azam,1,ShortLength,Off,DeepMidWicket
+4,Raees,Fast,Babar Azam,4,GoodLength,Wide,ThirdMan
+10,Mohammad Hasnain,Fast,Babar Azam,0,GoodLength,Off,DeepCover
+9,Raees,Fast,Babar Azam,1,FullLength,OutsideOff,LongOn
+8,Sami,Fast,Babar Azam,4,ShortLength,OutsideOff,ThirdMan
+8,Sami,Fast,Babar Azam,2,GoodLength,OutsideOff,DeepMidWicket
+7,Raees,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOff
+6,Raees,Fast,Babar Azam,2,GoodLength,OutsideOff,DeepCover
+4,Wiese,Fast,Babar Azam,1,ShortLength,OutsideLeg,DeepFineLeg
+2,Cheema,Fast,Babar Azam,0,FullLength,OutsideOff,DeepFineLeg
+19,Irfan,Fast,Babar Azam,1,FullLength,OutsideOff,ExraCover
+18,Abbas,Fast,Babar Azam,1,ShortLength,Off,DeepMidWicket
+10,Ibtisam Sheikh,Spin,Babar Azam,0,GoodLength,OutsideOff,DeepCover
+17,Hassan,Fast,Babar Azam,4,GoodLength,Wide,ThirdMan
+9,Nawaz,Spin,Babar Azam,1,GoodLength,OutsideOff,DeepMidWicket
+8,Nawaz,Spin,Babar Azam,4,FullLength,OutsideOff,DeepBackwardPoint
+8,Nawaz,Spin,Babar Azam,1,GoodLength,OutsideOff,LongOn
+8,Nawaz,Spin,Babar Azam,4,GoodLength,OutsideOff,ThirdMan
+8,Viljoen,Fast,Babar Azam,2,GoodLength,OutsideOff,DeepMidWicket
+7,Pollard,Medium,Babar Azam,2,ShortLength,OutsideOff,DeepCover
+5,Pollard,Medium,Babar Azam,1,GoodLength,Middle,BehindSquare
+4,Pollard,Medium,Babar Azam,0,ShortLength,OutsideOff,DeepFineLeg
+3,Tahir,Spin,Babar Azam,1,ShortLength,OutsideOff,ExraCover
+2,Tahir,Spin,Babar Azam,1,Yorker,Off,DeepMidWicket
+15,Narine,Spin,Babar Azam,0,ShortLength,OutsideOff,DeepCover
+6,Jordan,Fast,Babar Azam,4,GoodLength,Wide,ThirdMan
+1,Sodhi,Spin,Babar Azam,1,ShortLength,OutsideOff,LongOn
+5,Sodhi,Spin,Babar Azam,3,ShortLength,OutsideOff,ThirdMan
+3,de Grandhomme,Fast,Babar Azam,0,FullLength,OutsideOff,LongOn
+3,Boult,Fast,Babar Azam,1,GoodLength,OutsideOff,DeepCover
+18,Wheeler,Fast,Babar Azam,1,ShortLength,Middle,LongOn
+15,Boult,Fast,Babar Azam,1,FullLength,Middle,DeepMidWicket
+13,Wheeler,Fast,Babar Azam,4,ShortLength,Leg,DeepFineLeg
+9,Santner,Spin,Babar Azam,1,GoodLength,OutsideOff,DeepCover
+9,de Grandhomme,Fast,Babar Azam,2,GoodLength,Middle,DeepMidWicket
+14,Powell,Fast,Babar Azam,1,FullLength,Middle,DeepMidWicket
+2,Paul,Fast,Babar Azam,2,FullLength,Middle,DeepMidWicket
+15,Badree,Spin,Babar Azam,2,ShortLength,Middle,DeepMidWicket
+4,Ferguson,Fast,BabarAzam,2,GoodLength,Middle,DeepMidWicket
+13,Sodhi,Spin,BabarAzam,4,FullLength,OutsideOff,DeepCover
+8,Southee,Fast,BabarAzam,1,GoodLength,OutsideOff,DeepExtraCover
+8,Tickner,Fast,BabarAzam,4,Yorker,Middle,DeepMidWicket
+6,Boult,Fast,BabarAzam,4,ShortLength,OutsideOff,DeepCover
+4,Taskin,Fast,BabarAzam,4,FullLength,Middle,LongOn
+20,Nasum,Spin,BabarAzam,1,FullLength,Middle,DeepSquareLeg
+6,Stokes,Fast,Babar Azam,0,FullLength,OutsideOff,DeepPoint
+11,Ferguson,Fast,BabarAzam,2,GoodLength,Middle,DeepMidWicket
+19,Sodhi,Spin,BabarAzam,4,FullLength,OutsideOff,DeepCover
+12,Southee,Fast,BabarAzam,1,GoodLength,OutsideOff,DeepExtraCover
+4,Tickner,Fast,BabarAzam,4,Yorker,Middle,DeepMidWicket
+3,Boult,Fast,BabarAzam,4,ShortLength,OutsideOff,DeepCover
+3,Taskin,Fast,BabarAzam,4,FullLength,Middle,LongOn
+2,Nasum,Spin,BabarAzam,1,FullLength,Middle,DeepSquareLeg
+1,Stokes,Fast,BabarAzam,0,FullLength,OutsideOff,DeepPoint
+3,Jordan,Fast,BabarAzam,2,GoodLength,OutsideOff,ThirdMan
+15,Sodhi,Spin,Babar Azam,1,ShortLength,OutsideOff,LongOn
+7,Sodhi,Spin,Babar Azam,3,ShortLength,OutsideOff,ThirdMan
+5,de Grandhomme,Fast,Babar Azam,0,FullLength,OutsideOff,LongOn
+20,Boult,Fast,Babar Azam,1,GoodLength,OutsideOff,DeepCover
+19,Wheeler,Fast,Babar Azam,1,ShortLength,Middle,LongOn
+16,Boult,Fast,Babar Azam,1,FullLength,Middle,DeepMidWicket
+14,Wheeler,Fast,Babar Azam,4,ShortLength,Leg,DeepFineLeg
+12,Santner,Spin,Babar Azam,1,GoodLength,OutsideOff,DeepCover
+11,de Grandhomme,Fast,Babar Azam,2,GoodLength,Middle,DeepMidWicket
+12,Powell,Fast,Babar Azam,1,FullLength,Middle,DeepMidWicket
+1,Paul,Fast,Babar Azam,2,FullLength,Middle,DeepMidWicket
+9,Badree,Spin,Babar Azam,2,ShortLength,Middle,DeepMidWicket
+9,de Grandhomme,Fast,BabarAzam,1,FullLength,Middle,DeepMidWicket
+12,Linde,Spin,Babar Azam,0,FullLength,Off,DeepFineLeg
+3,Magala,Fast,Babar Azam,2,ShortLength,OutsideLeg,DeepSquareLeg
+6,Magala,Fast,Babar Azam,1,FullLength,OutsideOff,LongOn
+6,Williams,Fast,Babar Azam,4,FullLength,OutsideOff,DeepBackwardPoint
+6,Williams,Fast,Babar Azam,2,GoodLength,Middle,DeepSquareLeg
+4,Jongwe,Fast,Babar Azam,1,GoodLength,Off,DeepMidWicket
+4,Jongwe,Fast,Babar Azam,1,FullLength,Middle,DeepBackwardPoint
+1,Ngarava,Fast,Babar Azam,0,GoodLength,OutsideOff,DeepCover
+14,Muzarabani,Fast,Babar Azam,0,ShortLength,OutsideLeg,DeepMidWicket
+12,Muzarabani,Fast,Babar Azam,0,GoodLength,Off,DeepCover
+11,Burl,Spin,Babar Azam,1,GoodLength,OutsideOff,DeepMidWicket
+10,Burl,Spin,Babar Azam,4,GoodLength,OutsideOff,DeepBackwardPoint
+10,Masakadza,Fast,Babar Azam,4,FullLength,OutsideOff,ThirdMan
+9,Masakadza,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOff
+4,Muzarabani,Fast,Babar Azam,1,GoodLength,OutsideOff,DeepCover
+3,Willey,Fast,Babar Azam,1,FullLength,Leg,BehindSquare
+19,Parkinson,Spin,Babar Azam,0,Yorker,Off,DeepFineLeg
+4,Burl,Spin,Babar Azam,4,GoodLength,OutsideOff,DeepBackwardPoint
+5,Mohammad Ilyas,Fast,Babar Azam,1,FullLength,Wide,DeepPoint
+8,Viljoen,Fast,Babar Azam,0,GoodLength,Off,DeepCover
+6,Shaheen Shah Afridi,Fast,Babar Azam,2,ShortLength,OutsideOff,ExraCover
+10,Cheema,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOn
+7,Irfan,Fast,Babar Azam,4,ShortLength,OutsideOff,ThirdMan
+6,Irfan,Fast,Babar Azam,2,FullLength,Middle,LongOn
+14,Raees,Fast,Babar Azam,0,FullLength,OutsideOff,DeepCover
+5,Lamichhane,Spin,Babar Azam,2,GoodLength,OutsideOff,ExraCover
+3,Mohammad Ilyas,Fast,Babar Azam,4,GoodLength,OutsideOff,DeepMidWicket
+3,Irfan,Fast,Babar Azam,0,ShortLength,OutsideOff,DeepCover
+15,Mohammad Hasnain,Fast,Babar Azam,1,ShortLength,Off,DeepMidWicket
+11,Yasir Shah,Spin,Babar Azam,1,FullLength,Middle,DeepFineLeg
+9,Fawad,Spin,Babar Azam,1,GoodLength,OutsideOff,DeepMidWicket
+9,Mohammad Hasnain,Fast,Babar Azam,4,FullLength,OutsideOff,DeepBackwardPoint
+6,Raees,Fast,Babar Azam,4,GoodLength,OutsideOff,ThirdMan
+6,Lamichhane,Spin,Babar Azam,1,GoodLength,OutsideOff,DeepPoint
+4,Wiese,Fast,Babar Azam,1,FullLength,Middle,DeepMidWicket
+3,Lamichhane,Spin,Babar Azam,1,ShortLength,Middle,BehindSquare
+3,Lamichhane,Spin,Babar Azam,2,GoodLength,Middle,LongOn
+15,Sami,Fast,Babar Azam,0,GoodLength,OutsideOff,DeepCover
+3,Faheem,Fast,Babar Azam,1,FullLength,OutsideOff,LongOn
+11,Rahat Ali,Fast,Babar Azam,1,GoodLength,OutsideLeg,LongOn
+10,Rahat Ali,Fast,Babar Azam,0,ShortLength,Off,DeepCover
+7,Viljoen,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOff
+6,Pollard,Medium,Babar Azam,4,ShortLength,OutsideOff,ThirdMan
+6,Viljoen,Fast,Babar Azam,1,ShortLength,OutsideLeg,DeepFineLeg
+5,Viljoen,Fast,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+10,Irfan,Fast,Babar Azam,0,ShortLength,Off,DeepFineLeg
+7,Tahir,Spin,Babar Azam,1,FullLength,OutsideOff,DeepCover
+3,Santner,Spin,Babar Azam,2,FullLength,Middle,DeepMidWicket
+1,Sodhi,Spin,Babar Azam,1,GoodLength,OutsideOff,LongOff
+14,Santner,Spin,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+12,Santner,Spin,Babar Azam,1,GoodLength,OutsideOff,LongOff
+11,Sodhi,Spin,Babar Azam,1,GoodLength,OutsideOff,LongOn
+11,Sodhi,Spin,Babar Azam,0,ShortLength,OutsideOff,DeepCover
+6,Santner,Spin,Babar Azam,1,GoodLength,Middle,DeepSquareLeg
+6,Santner,Spin,Babar Azam,1,ShortLength,OutsideOff,DeepPoint
+5,Paul,Fast,Babar Azam,4,GoodLength,Middle,DeepPoint
+14,Emrit,Fast,Babar Azam,1,FullLength,Middle,DeepMidWicket
+4,Badree,Spin,Babar Azam,1,FullLength,Middle,LongOn
+18,McCarthy,Fast,Babar Azam,1,GoodLength,Middle,DeepPoint
+17,McCarthy,Fast,Babar Azam,4,GoodLength,OutsideOff,DeepBackwardPoint
+13,Mohammed,Spin,Babar Azam,4,GoodLength,OutsideOff,DeepMidWicket
+8,Emrit,Fast,Babar Azam,4,ShortLength,OutsideOff,DeepPoint
+7,Boult,Fast,BabarAzam,-1,FullLength,OutsideOff,LongOn
+4,Ferguson,Fast,BabarAzam,0,GoodLength,Middle,DeepSquareLeg
+3,Ferguson,Fast,BabarAzam,1,GoodLength,OutsideOff,DeepCover
+3,Sodhi,Spin,BabarAzam,2,Yorker,Off,DeepBackwardPoint
+2,Sodhi,Spin,BabarAzam,1,GoodLength,OutsideOff,DeepPoint
+1,Santner,Spin,BabarAzam,1,Yorker,Off,DeepMidWicket
+12,Santner,Spin,BabarAzam,0,FullLength,OutsideOff,DeepCover
+4,Boult,Fast,BabarAzam,1,FullLength,Off,DeepSquareLeg
+16,MichaelBracewell,Spin,BabarAzam,0,ShortLength,OutsideOff,DeepCover
+15,MichaelBracewell,Spin,BabarAzam,0,FullLength,Middle,DeepMidWicket
+15,Boult,Fast,BabarAzam,1,FullLength,OutsideOff,LongOff
+13,Southee,Fast,BabarAzam,0,GoodLength,OutsideOff,DeepMidWicket
+11,Boult,Fast,BabarAzam,0,GoodLength,OutsideOff,DeepCover
+6,Sodhi,Spin,BabarAzam,1,FullLength,Middle,LongOn
+5,Neesham,Medium,BabarAzam,1,GoodLength,Middle,LongOn
+5,Neesham,Medium,BabarAzam,2,ShortLength,OutsideOff,ThirdMan
+5,Neesham,Medium,BabarAzam,1,ShortLength,OutsideOff,DeepCover
+4,Sodhi,Spin,BabarAzam,2,FullLength,Middle,DeepSquareLeg
+3,Neesham,Medium,BabarAzam,4,GoodLength,OutsideOff,ThirdMan
+2,Tickner,Fast,BabarAzam,1,FullLength,OutsideOff,ThirdMan
+7,Boult,Fast,BabarAzam,4,GoodLength,OutsideOff,DeepCover
+16,Ngarava,Fast,BabarAzam,0,GoodLength,OutsideOff,LongOff
+14,Shakib,Spin,Babar Azam,1,FullLength,OutsideOff,DeepCover
+10,Saifuddin,Fast,Babar Azam,0,FullLength,OutsideOff,DeepExtraCover
+10,Saifuddin,Fast,Babar Azam,4,FullLength,OutsideOff,DeepCover
+4,Hasan Mahmud,Fast,Babar Azam,1,ShortLength,Off,DeepPoint
+4,Hasan Mahmud,Fast,Babar Azam,0,ShortLength,OutsideOff,ThirdMan
+14,Bhuvneshwar,Medium,Babar Azam,4,ShortLength,Leg,DeepMidWicket
+4,Dhananjaya,Spin,Babar Azam,1,GoodLength,OutsideOff,LongOff
+6,Jordan,Fast,Babar Azam,1,ShortLength,Off,ThirdMan
+5,Jordan,Fast,Babar Azam,4,GoodLength,Middle,DeepCover
+3,Woakes,Fast,Babar Azam,1,ShortLength,OutsideOff,DeepMidWicket
+3,Woakes,Fast,Babar Azam,0,ShortLength,Off,DeepMidWicket
+2,Woakes,Fast,Babar Azam,3,ShortLength,Off,LongOn
+1,Woakes,Fast,Babar Azam,1,ShortLength,Middle,LongOn
+5,Ngidi,Fast,Babar Azam,1,fulltoss,Middle,LongOff
+7,Magala,Fast,Babar Azam,1,GoodLength,Middle,LongOn
+6,Magala,Fast,Babar Azam,2,GoodLength,Middle,DeepMidWicket
+6,Hendricks,Fast,Babar Azam,1,ShortLength,OutsideOff,DeepCover
+3,Magala,Fast,Babar Azam,1,ShortLength,Middle,LongOff
+3,Williams,Fast,Babar Azam,1,FullLength,Middle,DeepMidWicket
+12,Linde,Spin,Babar Azam,1,ShortLength,Middle,LongOn
+12,Williams,Fast,Babar Azam,0,ShortLength,OutsideOff,DeepBackwardPoint
+12,Williams,Fast,Babar Azam,1,GoodLength,Middle,DeepFineLeg
+8,Shamsi,Spin,Babar Azam,0,FullLength,OutsideOff,ThirdMan
+8,Hendricks,Fast,Babar Azam,1,ShortLength,Middle,DeepSquareLeg
+7,Linde,Spin,Babar Azam,1,ShortLength,Middle,StraightHit
+6,Hendricks,Fast,Babar Azam,1,ShortLength,OutsideOff,DeepMidWicket
+5,Linde,Spin,Babar Azam,1,GoodLength,Middle,DeepPoint
+5,Linde,Spin,Babar Azam,0,GoodLength,Middle,ExraCover
+5,Hendricks,Fast,Babar Azam,1,ShortLength,OutsideOff,DeepCover
+4,Williams,Fast,Babar Azam,2,GoodLength,Middle,DeepMidWicket
+4,Magala,Fast,Babar Azam,1,GoodLength,Middle,LongOn
+3,Williams,Fast,Babar Azam,2,FullLength,OutsideOff,ThirdMan
+1,Shamsi,Spin,Babar Azam,1,GoodLength,OutsideOff,DeepMidWicket
+10,Shamsi,Spin,Babar Azam,1,GoodLength,OutsideOff,DeepMidWicket
+8,Shamsi,Spin,Babar Azam,1,GoodLength,OutsideOff,LongOn
+7,Magala,Fast,Babar Azam,1,ShortLength,Off,DeepPoint
+6,Williams,Fast,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+4,Magala,Fast,Babar Azam,2,FullLength,Middle,DeepMidWicket
+4,Magala,Fast,Babar Azam,1,GoodLength,Middle,LongOff
+2,Magala,Fast,Babar Azam,1,GoodLength,OutsideOff,DeepCover
+2,Magala,Fast,Babar Azam,3,ShortLength,Middle,LongOn
+1,Shamsi,Spin,Babar Azam,1,FullLength,OutsideLeg,DeepFineLeg
+2,Shamsi,Spin,Babar Azam,4,ShortLength,OutsideOff,ThirdMan
+1,Linde,Spin,Babar Azam,-1,ShortLength,Middle,DeepMidWicket
+16,Linde,Spin,Babar Azam,1,ShortLength,Middle,DeepCover
+15,Linde,Spin,Babar Azam,1,Yorker,OutsideOff,ThirdMan
+15,Linde,Spin,Babar Azam,0,FullLength,OutsideOff,LongOn
+14,Shamsi,Spin,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+11,Hendricks,Fast,Babar Azam,0,Yorker,Middle,DeepMidWicket
+9,Williams,Fast,Babar Azam,1,GoodLength,Middle,ThirdMan
+9,Williams,Fast,Babar Azam,1,FullLength,Middle,ThirdMan
+9,Hendricks,Fast,Babar Azam,1,FullLength,Middle,StraightHit
+8,Hendricks,Fast,Babar Azam,2,GoodLength,OutsideOff,LongOn
+8,Linde,Spin,Babar Azam,1,GoodLength,Middle,StraightHit
+7,Linde,Spin,Babar Azam,1,ShortLength,OutsideOff,LongOn
+7,Linde,Spin,Babar Azam,6,GoodLength,OutsideOff,CowCorner
+6,Linde,Spin,Babar Azam,1,GoodLength,Middle,LongOff
+6,Linde,Spin,Babar Azam,1,FullLength,Middle,DeepExtraCover
+4,Shamsi,Spin,Babar Azam,4,FullLength,Middle,DeepSquareLeg
+4,Mulder,Medium,Babar Azam,1,ShortLength,OutsideOff,Square
+4,Mulder,Medium,Babar Azam,1,ShortLength,OutsideOff,DeepMidWicket
+2,Magala,Fast,Babar Azam,4,FullLength,Middle,DeepMidWicket
+19,Williams,Fast,Babar Azam,1,FullLength,Middle,CowCorner
+17,Williams,Fast,Babar Azam,1,GoodLength,Middle,DeepFineLeg
+17,Williams,Fast,Babar Azam,6,ShortLength,OutsideOff,LongOn
+16,Fortuin,Spin,Babar Azam,6,FullLength,Middle,LongOn
+16,Fortuin,Spin,Babar Azam,2,ShortLength,OutsideOff,DeepSquareLeg
+15,Mulder,Medium,Babar Azam,-1,FullLength,Middle,LongOn
+15,Mulder,Medium,Babar Azam,0,GoodLength,Middle,DeepPoint
+15,Fortuin,Spin,Babar Azam,0,FullLength,Middle,DeepMidWicket
+14,Muzarabani,Fast,Babar Azam,1,ShortLength,Off,DeepMidWicket
+13,Madhevere,Spin,Babar Azam,2,ShortLength,Middle,DeepMidWicket
+10,Burl,Spin,Babar Azam,1,ShortLength,OutsideOff,LongOff
+3,Muzarabani,Fast,Babar Azam,1,ShortLength,Middle,LongOn
+3,Muzarabani,Fast,Babar Azam,0,GoodLength,OutsideOff,DeepBackwardPoint
+3,Muzarabani,Fast,Babar Azam,1,FullLength,Middle,DeepMidWicket
+2,Muzarabani,Fast,Babar Azam,1,GoodLength,OutsideLeg,DeepFineLeg
+11,Muzarabani,Fast,Babar Azam,1,FullLength,OutsideOff,DeepSquareLeg
+11,Ngarava,Fast,Babar Azam,1,GoodLength,Middle,StraightHit
+6,Jongwe,Fast,Babar Azam,1,ShortLength,Middle,DeepMidWicket
+4,Ngarava,Fast,Babar Azam,1,ShortLength,OutsideOff,DeepPoint
+4,Ngarava,Fast,Babar Azam,0,Yorker,OutsideOff,ExraCover
+3,Burl,Spin,Babar Azam,2,Yorker,Middle,DeepMidWicket
+3,Burl,Spin,Babar Azam,1,GoodLength,OutsideOff,LongOn
+17,Masakadza,Fast,Babar Azam,2,GoodLength,Middle,ThirdMan
+17,Burl,Spin,Babar Azam,1,ShortLength,Middle,DeepMidWicket
+16,Burl,Spin,Babar Azam,1,ShortLength,Middle,DeepMidWicket
+15,Masakadza,Fast,Babar Azam,4,FullLength,OutsideOff,LongOn
+15,Masakadza,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOff
+14,Burl,Spin,Babar Azam,1,FullLength,Middle,DeepPoint
+13,Burl,Spin,Babar Azam,1,GoodLength,OutsideOff,DeepMidWicket
+12,Masakadza,Fast,Babar Azam,4,GoodLength,OutsideOff,LongOff
+12,Burl,Spin,Babar Azam,2,GoodLength,OutsideOff,DeepMidWicket
+12,Burl,Spin,Babar Azam,1,FullLength,Middle,LongOff
+12,Burl,Spin,Babar Azam,1,GoodLength,Middle,DeepCover
+11,Burl,Spin,Babar Azam,3,ShortLength,Middle,LongOn
+11,Masakadza,Fast,Babar Azam,1,FullLength,OutsideLeg,DeepFineLeg
+11,Muzarabani,Fast,Babar Azam,4,ShortLength,Middle,ThirdMan
+11,Muzarabani,Fast,Babar Azam,-1,ShortLength,Middle,DeepMidWicket
+9,Willey,Fast,Babar Azam,1,ShortLength,OutsideOff,DeepCover
+9,Willey,Fast,Babar Azam,1,FullLength,OutsideOff,ThirdMan
+9,Gregory,Fast,Babar Azam,0,GoodLength,OutsideOff,LongOn
+8,Gregory,Fast,Babar Azam,1,FullLength,Middle,LongOff
+8,Parkinson,Spin,Babar Azam,0,FullLength,Middle,LongOff
+8,Parkinson,Spin,Babar Azam,1,FullLength,Middle,DeepMidWicket
+6,Parkinson,Spin,Babar Azam,0,GoodLength,OutsideOff,DeepMidWicket
+5,Livingstone,Spin,Babar Azam,2,ShortLength,OutsideOff,LongOn
+5,Parkinson,Spin,Babar Azam,4,FullLength,Middle,DeepMidWicket
+5,Burl,Spin,Babar Azam,1,GoodLength,OutsideOff,ThirdMan
+5,Burl,Spin,Babar Azam,1,FullLength,OutsideOff,ThirdMan
+4,Madhevere,Spin,Babar Azam,1,ShortLength,Middle,StraightHit
+4,Jongwe,Fast,Babar Azam,2,ShortLength,OutsideOff,LongOn
+3,Jongwe,Fast,Babar Azam,1,ShortLength,OutsideOff,LongOn
+3,Muzarabani,Fast,Babar Azam,6,ShortLength,Off,CowCorner
+1,Muzarabani,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOff
+1,Muzarabani,Fast,Babar Azam,1,GoodLength,OutsideOff,DeepExtraCover
+8,Ngarava,Fast,Babar Azam,4,GoodLength,OutsideOff,DeepSquareLeg
+8,Ngarava,Fast,Babar Azam,1,ShortLength,OutsideOff,Square
+7,Ngarava,Fast,Babar Azam,1,FullLength,Middle,DeepMidWicket
+6,Ngarava,Fast,Babar Azam,4,GoodLength,Middle,DeepMidWicket
+6,Jongwe,Fast,Babar Azam,1,GoodLength,Middle,CowCorner
+2,Ngarava,Fast,Babar Azam,1,GoodLength,OutsideLeg,DeepFineLeg
+2,Jongwe,Fast,Babar Azam,6,GoodLength,OutsideOff,LongOn
+1,Ngarava,Fast,Babar Azam,6,GoodLength,Middle,LongOn
+16,Ngarava,Fast,Babar Azam,2,GoodLength,Middle,DeepSquareLeg
+14,Burl,Spin,Babar Azam,1,ShortLength,Middle,DeepMidWicket
+13,Masakadza,Fast,Babar Azam,1,FullLength,Middle,LongOn
+11,Burl,Spin,Babar Azam,2,GoodLength,OutsideOff,DeepMidWicket
+19,Parkinson,Spin,Babar Azam,1,GoodLength,OutsideOff,LongOn
+19,Parkinson,Spin,Babar Azam,0,Yorker,OutsideOff,DeepBackwardPoint
+18,Willey,Fast,Babar Azam,1,ShortLength,Middle,DeepMidWicket
+18,Parkinson,Spin,Babar Azam,1,ShortLength,OutsideOff,DeepFineLeg
+15,Madhevere,Spin,Babar Azam,0,GoodLength,OutsideOff,ThirdMan
+14,Jongwe,Fast,Babar Azam,1,GoodLength,Middle,DeepSquareLeg
+13,Jongwe,Fast,Babar Azam,1,FullLength,Middle,StraightHit
+13,Muzarabani,Fast,Babar Azam,1,FullLength,Middle,DeepMidWicket
+11,Ngarava,Fast,Babar Azam,1,FullLength,OutsideOff,DeepPoint
+11,Ngarava,Fast,Babar Azam,0,ShortLength,OutsideOff,ExraCover
+10,Ngarava,Fast,Babar Azam,1,GoodLength,OutsideOff,DeepCover
+10,Muzarabani,Fast,Babar Azam,2,FullLength,Middle,DeepMidWicket
+10,Ngarava,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOn
+9,Jongwe,Fast,Babar Azam,2,GoodLength,OutsideOff,DeepExtraCover
+8,Jongwe,Fast,Babar Azam,1,FullLength,OutsideOff,DeepCover
+8,Muzarabani,Fast,Babar Azam,2,GoodLength,Middle,ThirdMan
+6,Muzarabani,Fast,Babar Azam,1,GoodLength,OutsideOff,DeepMidWicket
+6,Ngarava,Fast,Babar Azam,1,ShortLength,Off,DeepMidWicket
+7,Jongwe,Fast,Babar Azam,1,ShortLength,Middle,LongOn
+7,Ngarava,Fast,Babar Azam,4,GoodLength,OutsideOff,LongOn
+6,Ngarava,Fast,Babar Azam,1,FullLength,Middle,LongOff
+4,Ngarava,Fast,Babar Azam,1,ShortLength,Off,DeepMidWicket
+3,Burl,Spin,Babar Azam,4,ShortLength,Middle,LongOff
+6,Masakadza,Fast,Babar Azam,1,GoodLength,Middle,LongOff
+6,Masakadza,Fast,Babar Azam,1,GoodLength,OutsideOff,DeepCover
+5,Burl,Spin,Babar Azam,3,GoodLength,OutsideOff,LongOn
+5,Burl,Spin,Babar Azam,1,GoodLength,OutsideOff,DeepFineLeg
+4,Burl,Spin,Babar Azam,4,GoodLength,OutsideOff,ThirdMan
+4,Burl,Spin,Babar Azam,-1,ShortLength,Middle,DeepMidWicket
+3,Masakadza,Fast,Babar Azam,1,ShortLength,OutsideOff,ThirdMan
+3,Masakadza,Fast,Babar Azam,0,GoodLength,OutsideOff,LongOn
+3,Masakadza,Fast,Babar Azam,1,ShortLength,OutsideOff,LongOff
+2,Burl,Spin,Babar Azam,0,ShortLength,Middle,LongOff
+17,Burl,Spin,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+16,Burl,Spin,Babar Azam,0,GoodLength,OutsideOff,DeepMidWicket
+15,Masakadza,Fast,Babar Azam,2,GoodLength,OutsideOff,LongOn
+15,Muzarabani,Fast,Babar Azam,4,GoodLength,Middle,DeepMidWicket
+13,Willey,Fast,Babar Azam,1,FullLength,Middle,StraightHit
+13,Gregory,Fast,Babar Azam,2,ShortLength,OutsideOff,LongOn
+12,Gregory,Fast,Babar Azam,1,GoodLength,Middle,StraightHit
+12,Parkinson,Spin,Babar Azam,1,GoodLength,OutsideOff,LongOn
+12,Parkinson,Spin,Babar Azam,6,GoodLength,Middle,CowCorner
+9,Livingstone,Spin,Babar Azam,1,GoodLength,Middle,Square
+8,Mohammad Ilyas,Fast,Babar Azam,4,FullLength,Middle,DeepMidWicket
+8,Irfan,Fast,Babar Azam,1,GoodLength,Middle,CowCorner
+6,Mohammad Ilyas,Fast,Babar Azam,1,FullLength,OutsideLeg,DeepFineLeg
+6,Afridi,Spin,Babar Azam,6,ShortLength,Middle,LongOn
+5,Afridi,Spin,Babar Azam,2,Yorker,Middle,DeepSquareLeg
+4,Afridi,Spin,Babar Azam,-1,GoodLength,OutsideOff,LongOn
+4,Afridi,Spin,Babar Azam,0,GoodLength,Middle,DeepPoint
+6,Afridi,Spin,Babar Azam,1,GoodLength,OutsideOff,DeepMidWicket
+6,Afridi,Spin,Babar Azam,1,ShortLength,OutsideOff,LongOn
+2,Green,Fast,Babar Azam,1,GoodLength,Middle,LongOff
+17,Junaid,Fast,Babar Azam,1,ShortLength,Middle,DeepMidWicket
+11,Haris Rauf,Fast,Babar Azam,1,ShortLength,Middle,LongOn
+11,Haris Rauf,Fast,Babar Azam,0,GoodLength,OutsideOff,DeepBackwardPoint
+11,Rahat Ali,Fast,Babar Azam,1,GoodLength,OutsideOff,DeepMidWicket
+11,Rahat Ali,Fast,Babar Azam,1,ShortLength,OutsideLeg,DeepFineLeg
+9,Hafeez,Spin,Babar Azam,4,FullLength,Middle,DeepMidWicket
+7,Viljoen,Fast,Babar Azam,0,GoodLength,Middle,ThirdMan
+7,Shaheen Shah Afridi,Fast,Babar Azam,1,ShortLength,OutsideOff,DeepSquareLeg
+6,Yasir Shah,Spin,Babar Azam,1,GoodLength,OutsideOff,StraightHit
+5,Yasir Shah,Spin,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+4,Yasir Shah,Spin,Babar Azam,0,ShortLength,OutsideOff,ExraCover
+3,Hasan Ali,Fast,Babar Azam,1,ShortLength,OutsideOff,DeepCover
+3,Hasan Ali,Fast,Babar Azam,2,GoodLength,OutsideOff,DeepMidWicket
+3,Faheem,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOn
+1,Faheem,Fast,Babar Azam,2,FullLength,OutsideOff,DeepExtraCover
+1,Raees,Fast,Babar Azam,1,GoodLength,OutsideOff,DeepCover
+10,Raees,Fast,Babar Azam,2,GoodLength,Wide,ThirdMan
+8,Faheem,Fast,Babar Azam,1,GoodLength,OutsideOff,DeepMidWicket
+7,Faheem,Fast,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+7,Shadab,Spin,Babar Azam,1,GoodLength,OutsideOff,LongOn
+6,Amad Butt,Fast,Babar Azam,1,FullLength,OutsideOff,DeepPoint
+5,Amad Butt,Fast,Babar Azam,1,GoodLength,OutsideOff,DeepMidWicket
+2,Amad Butt,Fast,Babar Azam,4,GoodLength,OutsideOff,LongOff
+1,Patel,Spin,Babar Azam,3,ShortLength,Middle,LongOn
+15,Shadab,Spin,Babar Azam,4,GoodLength,OutsideOff,ThirdMan
+14,Faheem,Fast,Babar Azam,1,FullLength,Middle,ThirdMan
+14,Faheem,Fast,Babar Azam,0,FullLength,OutsideOff,LongOn
+13,Muhammad Musa,Fast,Babar Azam,1,GoodLength,Middle,LongOff
+12,Muhammad Musa,Fast,Babar Azam,0,GoodLength,Middle,LongOff
+11,Muhammad Musa,Fast,Babar Azam,1,FullLength,Off,DeepMidWicket
+10,Raees,Fast,Babar Azam,0,Yorker,Middle,DeepMidWicket
+9,Wiese,Fast,Babar Azam,2,Yorker,OutsideOff,LongOn
+9,Wiese,Fast,Babar Azam,4,GoodLength,Middle,DeepMidWicket
+8,Wiese,Fast,Babar Azam,1,GoodLength,Wide,ThirdMan
+7,Cheema,Fast,Babar Azam,1,GoodLength,Middle,StraightHit
+7,Cheema,Fast,Babar Azam,2,Yorker,OutsideOff,LongOn
+6,Cheema,Fast,Babar Azam,1,ShortLength,OutsideOff,StraightHit
+6,Mohammad Ilyas,Fast,Babar Azam,1,ShortLength,OutsideOff,LongOn
+4,Irfan,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOff
+4,Irfan,Fast,Babar Azam,1,FullLength,OutsideOff,DeepExtraCover
+3,Irfan,Fast,Babar Azam,4,GoodLength,OutsideOff,DeepSquareLeg
+2,Irfan,Fast,Babar Azam,1,GoodLength,Middle,Square
+1,Irfan,Fast,Babar Azam,1,GoodLength,OutsideOff,DeepMidWicket
+19,Irfan,Fast,Babar Azam,4,ShortLength,Middle,DeepMidWicket
+18,Abbas,Fast,Babar Azam,1,GoodLength,Middle,CowCorner
+16,Fawad,Spin,Babar Azam,1,FullLength,OutsideOff,DeepFineLeg
+16,Mohammad Hasnain,Fast,Babar Azam,6,ShortLength,Middle,LongOn
+15,Sami,Fast,Babar Azam,6,FullLength,OutsideOff,LongOn
+14,Sami,Fast,Babar Azam,2,GoodLength,Middle,DeepSquareLeg
+14,Raees,Fast,Babar Azam,-1,FullLength,Middle,LongOn
+14,Raees,Fast,Babar Azam,0,GoodLength,Middle,DeepPoint
+14,Raees,Fast,Babar Azam,0,FullLength,Middle,DeepMidWicket
+13,Raees,Fast,Babar Azam,1,ShortLength,OutsideOff,DeepMidWicket
+13,Wiese,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOn
+11,Wiese,Fast,Babar Azam,2,ShortLength,OutsideOff,DeepMidWicket
+11,Wiese,Fast,Babar Azam,1,FullLength,OutsideOff,DeepCover
+8,Irfan,Fast,Babar Azam,1,ShortLength,Middle,DeepMidWicket
+2,Mohammad Hasnain,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOn
+1,Mohammad Hasnain,Fast,Babar Azam,0,GoodLength,OutsideOff,DeepBackwardPoint
+1,Raees,Fast,Babar Azam,1,ShortLength,Middle,DeepMidWicket
+1,Sami,Fast,Babar Azam,1,GoodLength,Middle,DeepFineLeg
+6,Wiese,Fast,Babar Azam,0,GoodLength,Middle,ThirdMan
+6,Wiese,Fast,Babar Azam,1,GoodLength,Middle,DeepSquareLeg
+3,Zaman,Spin,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+2,Irfan,Fast,Babar Azam,0,FullLength,OutsideOff,ExraCover
+17,Irfan,Fast,Babar Azam,1,GoodLength,OutsideOff,DeepCover
+17,Abbas,Fast,Babar Azam,2,ShortLength,OutsideOff,DeepMidWicket
+17,Mohammad Hasnain,Fast,Babar Azam,1,FullLength,Middle,LongOn
+16,Mohammad Hasnain,Fast,Babar Azam,2,ShortLength,OutsideOff,DeepExtraCover
+15,Mohammad Hasnain,Fast,Babar Azam,1,FullLength,OutsideOff,DeepCover
+15,Fawad,Spin,Babar Azam,2,ShortLength,OutsideOff,ThirdMan
+15,Mohammad Hasnain,Fast,Babar Azam,1,FullLength,Middle,DeepMidWicket
+13,Sami,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOn
+12,Yasir Shah,Spin,Babar Azam,1,GoodLength,Middle,DeepPoint
+12,Yasir Shah,Spin,Babar Azam,1,ShortLength,Middle,DeepMidWicket
+11,Yasir Shah,Spin,Babar Azam,2,GoodLength,Middle,DeepMidWicket
+10,Hasan Ali,Fast,Babar Azam,1,FullLength,Middle,LongOff
+9,Hasan Ali,Fast,Babar Azam,1,GoodLength,Off,DeepCover
+9,Hasan Ali,Fast,Babar Azam,3,FullLength,Middle,LongOn
+9,Hasan Ali,Fast,Babar Azam,1,GoodLength,Middle,DeepFineLeg
+8,Faheem,Fast,Babar Azam,4,GoodLength,Wide,ThirdMan
+8,Faheem,Fast,Babar Azam,-1,GoodLength,Middle,DeepMidWicket
+8,Raees,Fast,Babar Azam,1,GoodLength,OutsideOff,DeepCover
+8,Raees,Fast,Babar Azam,1,ShortLength,OutsideOff,ThirdMan
+7,Faheem,Fast,Babar Azam,0,GoodLength,OutsideOff,LongOn
+7,Faheem,Fast,Babar Azam,1,FullLength,Middle,LongOff
+7,Faheem,Fast,Babar Azam,0,GoodLength,OutsideOff,LongOff
+6,Faheem,Fast,Babar Azam,1,FullLength,Middle,DeepMidWicket
+5,Amad Butt,Fast,Babar Azam,0,FullLength,OutsideOff,DeepMidWicket
+4,Shadab,Spin,Babar Azam,2,GoodLength,OutsideOff,LongOn
+3,Amad Butt,Fast,Babar Azam,4,FullLength,Middle,DeepMidWicket
+3,Amad Butt,Fast,Babar Azam,1,GoodLength,Middle,ThirdMan
+3,Amad Butt,Fast,Babar Azam,1,FullLength,Middle,ThirdMan
+2,Patel,Spin,Babar Azam,1,ShortLength,Middle,StraightHit
+1,Patel,Spin,Babar Azam,2,GoodLength,OutsideOff,LongOn
+1,Patel,Spin,Babar Azam,1,GoodLength,Middle,StraightHit
+9,Shadab,Spin,Babar Azam,1,FullLength,Middle,LongOn
+8,Faheem,Fast,Babar Azam,6,ShortLength,OutsideOff,CowCorner
+7,Faheem,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOff
+7,Faheem,Fast,Babar Azam,1,FullLength,OutsideOff,DeepExtraCover
+6,Muhammad Musa,Fast,Babar Azam,4,ShortLength,Middle,DeepSquareLeg
+6,Raees,Fast,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+2,Wiese,Fast,Babar Azam,1,GoodLength,Middle,CowCorner
+15,Lamichhane,Spin,Babar Azam,6,ShortLength,OutsideOff,LongOn
+14,Zaman,Spin,Babar Azam,6,GoodLength,OutsideOff,LongOn
+14,Mohammad Ilyas,Fast,Babar Azam,2,GoodLength,OutsideOff,DeepSquareLeg
+13,Irfan,Fast,Babar Azam,-1,ShortLength,Middle,LongOn
+12,Irfan,Fast,Babar Azam,0,FullLength,OutsideOff,DeepPoint
+12,Irfan,Fast,Babar Azam,0,GoodLength,Middle,DeepMidWicket
+11,Irfan,Fast,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+10,Abbas,Fast,Babar Azam,1,ShortLength,OutsideOff,LongOn
+9,Mohammad Hasnain,Fast,Babar Azam,2,GoodLength,OutsideOff,DeepMidWicket
+8,Raees,Fast,Babar Azam,1,FullLength,OutsideOff,LongOff
+7,Raees,Fast,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+17,Mohammad Hasnain,Fast,Babar Azam,1,Yorker,OutsideOff,LongOn
+16,Mohammad Hasnain,Fast,Babar Azam,0,FullLength,OutsideOff,DeepBackwardPoint
+15,Raees,Fast,Babar Azam,4,GoodLength,Middle,DeepMidWicket
+13,Rahat Ali,Fast,Babar Azam,0,ShortLength,OutsideOff,ThirdMan
+13,Hassan,Fast,Babar Azam,1,FullLength,Middle,DeepSquareLeg
+11,Archer,Fast,Babar Azam,1,GoodLength,Middle,StraightHit
+10,Ibtisam Sheikh,Spin,Babar Azam,1,GoodLength,OutsideOff,DeepMidWicket
+10,Wahab Riaz,Fast,Babar Azam,1,GoodLength,Middle,DeepPoint
+9,Wahab Riaz,Fast,Babar Azam,0,ShortLength,OutsideOff,ExraCover
+8,Ibtisam Sheikh,Spin,Babar Azam,1,ShortLength,OutsideOff,DeepCover
+7,Wahab Riaz,Fast,Babar Azam,2,FullLength,Middle,DeepMidWicket
+6,Wahab Riaz,Fast,Babar Azam,1,ShortLength,Middle,LongOn
+6,Mohammad Asghar,Spin,Babar Azam,2,FullLength,Middle,DeepExtraCover
+7,Jordan,Fast,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+4,Umaid Asif,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOn
+4,Talat,Fast,Babar Azam,4,ShortLength,Middle,LongOn
+3,Talat,Fast,Babar Azam,1,ShortLength,OutsideOff,LongOff
+3,Talat,Fast,Babar Azam,1,ShortLength,Off,DeepPoint
+1,Patel,Spin,Babar Azam,4,GoodLength,OutsideOff,LongOff
+1,Talat,Fast,Babar Azam,2,GoodLength,Middle,DeepMidWicket
+14,Talat,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOff
+14,Shadab,Spin,Babar Azam,1,GoodLength,OutsideOff,DeepCover
+14,Shadab,Spin,Babar Azam,3,ShortLength,OutsideOff,LongOn
+14,Shadab,Spin,Babar Azam,1,GoodLength,OutsideLeg,DeepFineLeg
+6,Shadab,Spin,Babar Azam,4,ShortLength,OutsideOff,ThirdMan
+6,Shadab,Spin,Babar Azam,-1,GoodLength,Middle,DeepMidWicket
+5,Talat,Fast,Babar Azam,1,GoodLength,Off,DeepCover
+5,Shadab,Spin,Babar Azam,1,ShortLength,OutsideOff,ThirdMan
+4,Shadab,Spin,Babar Azam,0,FullLength,Middle,LongOn
+4,Shadab,Spin,Babar Azam,1,ShortLength,OutsideOff,LongOff
+4,Shadab,Spin,Babar Azam,0,ShortLength,OutsideOff,LongOff
+3,Talat,Fast,Babar Azam,1,ShortLength,Off,DeepMidWicket
+17,Shadab,Spin,Babar Azam,0,GoodLength,Middle,DeepMidWicket
+16,Faheem,Fast,Babar Azam,2,GoodLength,OutsideOff,LongOn
+16,Faheem,Fast,Babar Azam,4,ShortLength,OutsideOff,DeepMidWicket
+15,Shadab,Spin,Babar Azam,1,GoodLength,OutsideOff,ThirdMan
+15,Shadab,Spin,Babar Azam,1,GoodLength,OutsideOff,ThirdMan
+6,Shadab,Spin,Babar Azam,1,FullLength,Middle,StraightHit
+6,Faheem,Fast,Babar Azam,2,ShortLength,OutsideOff,LongOn
+6,Faheem,Fast,Babar Azam,1,FullLength,Middle,StraightHit
+5,Faheem,Fast,Babar Azam,1,FullLength,OutsideOff,LongOn
+4,Patel,Spin,Babar Azam,1,ShortLength,Middle,LongOff
+3,Sami,Fast,Babar Azam,4,ShortLength,OutsideOff,DeepSquareLeg
+18,Patel,Spin,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+17,Hassan,Fast,Babar Azam,4,GoodLength,OutsideOff,DeepMidWicket
+16,Anwar Ali,Fast,Babar Azam,1,FullLength,Middle,CowCorner
+15,Hassan,Fast,Babar Azam,1,ShortLength,OutsideLeg,DeepFineLeg
+14,Hassan,Fast,Babar Azam,6,GoodLength,OutsideOff,LongOn
+13,Hassan,Fast,Babar Azam,6,GoodLength,OutsideOff,LongOn
+12,Nawaz,Spin,Babar Azam,2,GoodLength,Middle,DeepSquareLeg
+12,Nawaz,Spin,Babar Azam,-1,GoodLength,OutsideOff,LongOn
+12,Nawaz,Spin,Babar Azam,0,GoodLength,OutsideOff,DeepPoint
+12,Nawaz,Spin,Babar Azam,0,ShortLength,Middle,DeepMidWicket
+11,Rahat Ali,Fast,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+9,Nawaz,Spin,Babar Azam,2,FullLength,Middle,DeepMidWicket
+9,Nawaz,Spin,Babar Azam,1,ShortLength,Middle,DeepCover
+9,Irfan,Fast,Babar Azam,1,Yorker,OutsideOff,LongOn
+8,Irfan,Fast,Babar Azam,0,GoodLength,Off,DeepBackwardPoint
+8,Viljoen,Fast,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+6,Tahir,Spin,Babar Azam,4,Yorker,Off,DeepMidWicket
+4,Tanvir,Fast,Babar Azam,0,FullLength,OutsideOff,ThirdMan
+2,Sohail Khan,Fast,Babar Azam,1,ShortLength,Middle,DeepSquareLeg
+1,Sohail Khan,Fast,Babar Azam,1,GoodLength,Middle,StraightHit
+15,Shaheen Shah Afridi,Fast,Babar Azam,1,FullLength,Off,DeepMidWicket
+14,McClenaghan,Fast,Babar Azam,1,FullLength,OutsideOff,DeepPoint
+14,McClenaghan,Fast,Babar Azam,0,ShortLength,OutsideOff,ExraCover
+13,Yasir Shah,Spin,Babar Azam,1,FullLength,Middle,DeepCover
+11,Sohail Khan,Fast,Babar Azam,1,Yorker,OutsideOff,LongOn
+11,Sohail Khan,Fast,Babar Azam,2,GoodLength,OutsideOff,DeepExtraCover
+9,Narine,Spin,Babar Azam,1,Yorker,Middle,DeepMidWicket
+9,McClenaghan,Fast,Babar Azam,1,ShortLength,Off,DeepMidWicket
+8,Shaheen Shah Afridi,Fast,Babar Azam,4,GoodLength,OutsideOff,LongOn
+8,Shaheen Shah Afridi,Fast,Babar Azam,1,FullLength,Middle,LongOff
+7,Shaheen Shah Afridi,Fast,Babar Azam,1,GoodLength,Middle,DeepPoint
+6,McClenaghan,Fast,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+6,McClenaghan,Fast,Babar Azam,4,ShortLength,OutsideOff,LongOff
+4,McClenaghan,Fast,Babar Azam,2,ShortLength,Off,DeepMidWicket
+4,McClenaghan,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOff
+4,McClenaghan,Fast,Babar Azam,1,FullLength,OutsideOff,DeepCover
+3,McClenaghan,Fast,Babar Azam,3,GoodLength,OutsideOff,LongOn
+3,Yasir Shah,Spin,Babar Azam,1,ShortLength,OutsideOff,DeepFineLeg
+2,Yasir Shah,Spin,Babar Azam,4,FullLength,OutsideOff,ThirdMan
+1,Yasir Shah,Spin,Babar Azam,-1,ShortLength,Middle,DeepMidWicket
+19,Sami,Fast,Babar Azam,1,FullLength,OutsideOff,DeepCover
+19,Hasan Ali,Fast,Babar Azam,1,ShortLength,Middle,ThirdMan
+19,Hasan Ali,Fast,Babar Azam,0,FullLength,OutsideOff,LongOn
+18,Jordan,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOff
+18,Jordan,Fast,Babar Azam,0,FullLength,Middle,LongOff
+17,Jordan,Fast,Babar Azam,1,GoodLength,OutsideOff,DeepMidWicket
+16,Umaid Asif,Fast,Babar Azam,0,ShortLength,Middle,DeepMidWicket
+14,Wahab Riaz,Fast,Babar Azam,2,FullLength,OutsideOff,LongOn
+14,Wahab Riaz,Fast,Babar Azam,4,ShortLength,Middle,DeepMidWicket
+14,Umaid Asif,Fast,Babar Azam,1,FullLength,OutsideOff,ThirdMan
+14,Umaid Asif,Fast,Babar Azam,1,GoodLength,Middle,ThirdMan
+13,Jordan,Fast,Babar Azam,2,ShortLength,OutsideOff,LongOn
+13,Jordan,Fast,Babar Azam,1,ShortLength,Middle,StraightHit
+11,Umaid Asif,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOn
+11,Umaid Asif,Fast,Babar Azam,6,ShortLength,Off,CowCorner
+10,Wahab Riaz,Fast,Babar Azam,1,GoodLength,OutsideOff,DeepExtraCover
+10,Sameen Gul,Medium,Babar Azam,4,GoodLength,Middle,DeepSquareLeg
+9,Sameen Gul,Medium,Babar Azam,1,GoodLength,Middle,Square
+9,Jordan,Fast,Babar Azam,1,ShortLength,Middle,DeepMidWicket
+7,Jordan,Fast,Babar Azam,4,ShortLength,Middle,DeepMidWicket
+6,Hasan Ali,Fast,Babar Azam,1,ShortLength,Off,CowCorner
+6,Hasan Ali,Fast,Babar Azam,1,GoodLength,Middle,DeepFineLeg
+6,Sameen Gul,Medium,Babar Azam,-1,ShortLength,Middle,StraightHit
+12,Santner,Spin,Babar Azam,0,ShortLength,Middle,DeepPoint
+12,Sodhi,Spin,Babar Azam,1,ShortLength,Middle,DeepPoint
+2,Wheeler,Fast,Babar Azam,2,ShortLength,OutsideLeg,DeepFineLeg
+6,Sodhi,Spin,Babar Azam,1,ShortLength,OutsideOff,DeepFineLeg
+3,Emrit,Fast,Babar Azam,4,GoodLength,Middle,DeepMidWicket
+1,Paul,Fast,Babar Azam,0,GoodLength,OutsideOff,LongOn
+10,Paul,Fast,Babar Azam,4,ShortLength,OutsideOff,DeepBackwardPoint
+6,Williams,Fast,Babar Azam,1,Yorker,Middle,ThirdMan
+5,Paul,Fast,Babar Azam,1,Yorker,Middle,DeepSquareLeg
+2,Emrit,Fast,Babar Azam,5,Yorker,Leg,DeepFineLeg
+2,Williams,Fast,Babar Azam,2,FullLength,OutsideOff,DeepExtraCover
+1,Williams,Fast,Babar Azam,1,Yorker,Middle,DeepSquareLeg
+1,Williams,Fast,Babar Azam,6,FullLength,Middle,LongOn
+12,Williams,Fast,Babar Azam,4,GoodLength,OutsideLeg,DeepFineLeg
+11,Williams,Fast,Babar Azam,1,GoodLength,Middle,DeepSquareLeg
+11,Smith,Fast,Babar Azam,1,GoodLength,Middle,DeepPoint
+10,Smith,Fast,Babar Azam,1,GoodLength,Middle,LongOn
+8,Badree,Spin,Babar Azam,1,ShortLength,Middle,DeepPoint
+7,Williams,Fast,Babar Azam,0,GoodLength,OutsideOff,DeepCover
+6,Emrit,Fast,Babar Azam,4,GoodLength,Middle,DeepSquareLeg
+1,Paul,Fast,Babar Azam,0,GoodLength,OutsideOff,DeepCover
+16,Badree,Spin,Babar Azam,1,GoodLength,OutsideOff,ThirdMan
+16,McCarthy,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOn
+9,Paul,Fast,Babar Azam,1,GoodLength,OutsideOff,LongOn
+7,Paul,Fast,Babar Azam,0,FullLength,OutsideOff,DeepCover
+17,Tye,Fast,Babar Azam,1,GoodLength,OutsideOff,DeepCover
+3,Sodhi,Spin,BabarAzam,4,ShortLength,Middle,DeepPoint
+11,Ferguson,Fast,BabarAzam,1,ShortLength,OutsideOff,DeepSquareLeg
+11,Southee,Fast,BabarAzam,4,ShortLength,OutsideOff,DeepSquareLeg
+4,Boult,Fast,BabarAzam,4,ShortLength,Middle,DeepPoint
+3,Boult,Fast,BabarAzam,0,ShortLength,OutsideOff,LongOff
+18,Boult,Fast,BabarAzam,0,GoodLength,Off,DeepBackwardPoint
+17,Southee,Fast,BabarAzam,4,ShortLength,OutsideOff,DeepSquareLeg
+16,MichaelBracewell,Spin,BabarAzam,0,FullLength,Middle,DeepSquareLeg
+12,Tickner,Fast,BabarAzam,4,ShortLength,Middle,LongOff
+12,Tickner,Fast,BabarAzam,2,GoodLength,Middle,DeepSquareLeg
+4,Sodhi,Spin,BabarAzam,4,ShortLength,OutsideOff,DeepFineLeg
+8,Tickner,Fast,BabarAzam,0,FullLength,Middle,LongOff
+7,Boult,Fast,BabarAzam,4,ShortLength,OutsideOff,ThirdMan
+5,Southee,Fast,BabarAzam,1,GoodLength,Middle,DeepSquareLeg
+4,Southee,Fast,BabarAzam,0,GoodLength,OutsideOff,LongOff
+1,Boult,Fast,BabarAzam,1,GoodLength,Middle,LongOff
+1,Southee,Fast,BabarAzam,2,ShortLength,Middle,DeepMidWicket
+1,Southee,Fast,BabarAzam,1,ShortLength,Middle,DeepSquareLeg
+11,Shakib,Spin,BabarAzam,1,FullLength,Middle,DeepSquareLeg
+11,Shakib,Spin,BabarAzam,0,FullLength,Middle,DeepCover
+10,Ebadot Hossain,Fast,BabarAzam,2,FullLength,OutsideOff,LongOn
+9,Nasum,Spin,BabarAzam,1,ShortLength,OutsideOff,DeepBackwardPoint
+9,Nasum,Spin,BabarAzam,1,FullLength,Middle,DeepMidWicket
+8,Mustafizur,Fast,BabarAzam,1,FullLength,OutsideOff,DeepSquareLeg
+8,Mustafizur,Fast,BabarAzam,1,FullLength,OutsideOff,DeepSquareLeg
+7,Nasum,Spin,BabarAzam,1,FullLength,Middle,LongOn
+4,Shakib,Spin,BabarAzam,1,FullLength,Middle,DeepSquareLeg
+1,Nasum,Spin,BabarAzam,1,FullLength,Middle,DeepMidWicket
+19,Evans,Fast,BabarAzam,0,FullLength,OutsideOff,DeepPoint
+19,Ngarava,Fast,BabarAzam,4,ShortLength,Off,DeepMidWicket
+18,Muzarabani,Fast,BabarAzam,0,Yorker,Middle,LongOn
+15,Saifuddin,Fast,Babar Azam,4,GoodLength,OutsideOff,DeepMidWicket
+13,Shakib,Spin,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+13,Taskin,Fast,Babar Azam,1,Yorker,Middle,DeepMidWicket
+13,Taskin,Fast,Babar Azam,4,ShortLength,OutsideLeg,DeepFineLeg
+11,Shoriful Islam,Fast,Babar Azam,1,FullLength,OutsideOff,DeepSquareLeg
+8,Hasan Mahmud,Fast,Babar Azam,0,GoodLength,OutsideOff,DeepPoint
+1,Ravi Bishnoi,Spin,Babar Azam,2,Yorker,OutsideOff,DeepCover
+14,Bhuvneshwar,Medium,Babar Azam,1,GoodLength,Middle,DeepMidWicket
+14,Arshdeep Singh,Fast,Babar Azam,1,FullLength,Middle,LongOff
+11,Hasaranga de Silva,Spin,Babar Azam,1,FullLength,Middle,DeepCover
+11,C Karunaratne,Fast,Babar Azam,1,ShortLength,Middle,LongOn
+11,C Karunaratne,Fast,Babar Azam,1,ShortLength,Middle,LongOn
+5,Hasaranga de Silva,Spin,Babar Azam,0,Yorker,Middle,DeepMidWicket
+3,Hasaranga de Silva,Spin,Babar Azam,2,Yorker,Off,DeepMidWicket
+3,Pramod,Fast,Babar Azam,1,ShortLength,Middle,LongOn
+2,Pramod,Fast,Babar Azam,4,GoodLength,Wide,ThirdMan
+11,Shukla,Medium,Babar Azam,1,FullLength,Middle,DeepMidWicket
+11,Shukla,Medium,Babar Azam,1,ShortLength,Middle,DeepMidWicket
+9,Bhuvneshwar,Medium,Babar Azam,-1,ShortLength,OutsideOff,DeepFineLeg
+8,Arshdeep Singh,Fast,Babar Azam,0,GoodLength,Middle,DeepMidWicket
+6,Stokes,Fast,Babar Azam,3,ShortLength,Off,DeepPoint
+6,Rabada,Fast,Babar Azam,0,GoodLength,OutsideOff,DeepCover
+4,Ngidi,Fast,Babar Azam,2,FullLength,Middle,LongOff
+1,Parnell,Fast,Babar Azam,1,GoodLength,Wide,ThirdMan
+2,Parnell,Fast,Babar Azam,0,GoodLength,Middle,DeepPoint
+1,Parnell,Fast,Babar Azam,0,GoodLength,OutsideOff,DeepCover
+16,Ngidi,Fast,Babar Azam,-1,GoodLength,OutsideOff,DeepMidWicket
+17,Hendricks,Fast,Babar Azam,0,FullLength,Leg,LongOn
+15,Magala,Fast,Babar Azam,0,GoodLength,Off,DeepCover
+11,Shamsi,Spin,Babar Azam,0,ShortLength,OutsideOff,DeepFineLeg
+7,Hendricks,Fast,Babar Azam,0,ShortLength,OutsideOff,StraightHit
+5,Linde,Spin,Babar Azam,0,GoodLength,OutsideOff,LongOn
+1,Linde,Spin,Babar Azam,0,FullLength,OutsideLeg,DeepFineLeg
+13,Shamsi,Spin,Babar Azam,1,GoodLength,OutsideLeg,DeepFineLeg
+11,Linde,Spin,Babar Azam,1,GoodLength,Wide,LongOn
+8,Linde,Spin,Babar Azam,1,GoodLength,OutsideLeg,DeepFineLeg
+6,Hendricks,Fast,Babar Azam,2,ShortLength,Leg,BehindSquare
+19,Williams,Fast,Babar Azam,1,GoodLength,Leg,DeepFineLeg
+16,Fortuin,Spin,Babar Azam,0,GoodLength,Middle,ThirdMan
+8,Burl,Spin,Babar Azam,0,ShortLength,Leg,CowCorner
+7,Burl,Spin,Babar Azam,0,ShortLength,Off,MidOn
+1,Ngarava,Fast,Babar Azam,0,GoodLength,OutsideOff,CowCorner
+11,Muzarabani,Fast,Babar Azam,0,GoodLength,OutsideOff,LongOn
+4,Ngarava,Fast,Babar Azam,0,FullLength,OutsideOff,StraightHit
+10,Muzarabani,Fast,Babar Azam,0,FullLength,OutsideLeg,DeepFineLeg
+8,Parkinson,Spin,Babar Azam,1,GoodLength,OutsideLeg,CowCorner
+7,Willey,Fast,Babar Azam,1,FullLength,OutsideLeg,DeepFineLeg
+7,Parkinson,Spin,Babar Azam,1,ShortLength,Wide,ExraCover
+3,Jongwe,Fast,Babar Azam,1,GoodLength,OutsideLeg,DeepFineLeg
+5,Muzarabani,Fast,Babar Azam,1,GoodLength,Leg,DeepFineLeg
+2,Jongwe,Fast,Babar Azam,0,ShortLength,Middle,StraightHit
+8,Masakadza,Fast,Babar Azam,0,GoodLength,Leg,DeepFineLeg
+4,Muzarabani,Fast,Babar Azam,0,FullLength,Off,MidOn
+14,Madhevere,Spin,Babar Azam,0,ShortLength,Leg,DeepFineLeg
+14,Jongwe,Fast,Babar Azam,0,GoodLength,OutsideOff,CowCorner
+11,Ngarava,Fast,Babar Azam,0,FullLength,OutsideOff,DeepBackwardPoint
+4,Jongwe,Fast,Babar Azam,0,FullLength,OutsideLeg,DeepFineLeg
+17,Burl,Spin,Babar Azam,1,ShortLength,OutsideLeg,CowCorner
+17,Masakadza,Fast,Babar Azam,1,FullLength,OutsideLeg,DeepFineLeg
+16,Masakadza,Fast,Babar Azam,1,GoodLength,Wide,StraightHit
+12,Parkinson,Spin,Babar Azam,1,FullLength,OutsideLeg,DeepCover
+12,Parkinson,Spin,Babar Azam,2,GoodLength,Leg,CowCorner
+7,Irfan,Fast,Babar Azam,1,ShortLength,Leg,DeepFineLeg
+5,Mohammad Ilyas,Fast,Babar Azam,0,FullLength,Middle,CowCorner
+16,Green,Fast,Babar Azam,0,FullLength,Leg,FineLeg
+13,Haris Rauf,Fast,Babar Azam,0,GoodLength,Off,DeepCover
+9,Rahat Ali,Fast,Babar Azam,0,ShortLength,OutsideOff,ExraCover
+7,Viljoen,Fast,Babar Azam,0,ShortLength,Leg,DeepFineLeg
+6,Yasir Shah,Spin,Babar Azam,0,GoodLength,OutsideOff,DeepCover
+4,Hasan Ali,Fast,Babar Azam,0,GoodLength,OutsideOff,CowCorner
+11,Raees,Fast,Babar Azam,1,ShortLength,OutsideLeg,DeepFineLeg
+11,Raees,Fast,Babar Azam,1,ShortLength,OutsideLeg,DeepFineLeg
+10,Raees,Fast,Babar Azam,1,ShortLength,Wide,StraightHit
+6,Zaman,Spin,Babar Azam,1,ShortLength,OutsideLeg,CowCorner
+17,Mohammad Hasnain,Fast,Babar Azam,1,ShortLength,Leg,DeepFineLeg
+15,Mohammad Hasnain,Fast,Babar Azam,0,GoodLength,Middle,StraightHit
+6,Irfan,Fast,Babar Azam,0,GoodLength,Leg,CowCorner
+4,Abbas,Fast,Babar Azam,0,ShortLength,Off,CowCorner
+14,Raees,Fast,Babar Azam,0,GoodLength,OutsideOff,LongOff
+6,Wiese,Fast,Babar Azam,0,GoodLength,Leg,StraightHit
+18,Irfan,Fast,Babar Azam,0,FullLength,OutsideOff,StraightHit
+8,Faheem,Fast,Babar Azam,0,ShortLength,OutsideLeg,DeepFineLeg
+6,Shadab,Spin,Babar Azam,1,ShortLength,OutsideLeg,StraightHit
+6,Shadab,Spin,Babar Azam,1,ShortLength,OutsideLeg,DeepCover
+5,Amad Butt,Fast,Babar Azam,1,ShortLength,Wide,StraightHit
+10,Shadab,Spin,Babar Azam,1,ShortLength,OutsideLeg,DeepFineLeg
+8,Faheem,Fast,Babar Azam,2,FullLength,Leg,MidOn
+1,Wiese,Fast,Babar Azam,1,GoodLength,Leg,CowCorner
+15,Cheema,Fast,Babar Azam,0,ShortLength,Middle,MidOn
+20,Cheema,Fast,Babar Azam,0,GoodLength,Off,DeepCover
+15,Mohammad Hasnain,Fast,Babar Azam,0,GoodLength,OutsideOff,LongOff
+13,Rahat Ali,Fast,Babar Azam,0,FullLength,Leg,CowCorner
+11,Hassan,Fast,Babar Azam,0,FullLength,OutsideOff,DeepBackwardPoint
+9,Ibtisam Sheikh,Spin,Babar Azam,0,FullLength,OutsideOff,DeepBackwardPoint
+6,Talat,Fast,Babar Azam,0,FullLength,OutsideLeg,DeepFineLeg
+3,Talat,Fast,Babar Azam,1,FullLength,OutsideLeg,DeepFineLeg
+3,Shadab,Spin,Babar Azam,1,GoodLength,OutsideLeg,CowCorner
+18,Shadab,Spin,Babar Azam,1,FullLength,Wide,DeepBackwardPoint
+5,Faheem,Fast,Babar Azam,1,GoodLength,OutsideLeg,DeepFineLeg
+4,Patel,Spin,Babar Azam,2,ShortLength,Leg,CowCorner
+13,Hassan,Fast,Babar Azam,0,ShortLength,Middle,CowCorner
+3,Junaid,Fast,Babar Azam,0,ShortLength,Off,CowCorner
+7,Tahir,Spin,Babar Azam,0,GoodLength,OutsideOff,CowCorner
+2,Irfan,Fast,Babar Azam,0,GoodLength,Leg,CowCorner
+2,Sohail Khan,Fast,Babar Azam,0,GoodLength,OutsideOff,DeepExtraCover
+14,Yasir Shah,Spin,Babar Azam,0,Yorker,OutsideOff,ExraCover
+20,Sami,Fast,Babar Azam,0,ShortLength,OutsideLeg,CowCorner
+17,Hasan Ali,Fast,Babar Azam,1,FullLength,OutsideLeg,DeepFineLeg
+16,Hasan Ali,Fast,Babar Azam,1,GoodLength,OutsideLeg,DeepFineLeg
+16,Hasan Ali,Fast,Babar Azam,1,GoodLength,Wide,StraightHit
+11,Umaid Asif,Fast,Babar Azam,2,ShortLength,Leg,DeepFineLeg
+17,Hasan Ali,Fast,Babar Azam,1,GoodLength,Leg,LongOff
+11,Santner,Spin,Babar Azam,0,FullLength,Middle,CowCorner
+11,Sodhi,Spin,Babar Azam,0,FullLength,OutsideOff,DeepCover
+3,Southee,Fast,Babar Azam,0,FullLength,Middle,CowCorner
+17,Rance,Medium,Babar Azam,0,FullLength,Middle,DeepSquareLeg
+17,Rance,Medium,Babar Azam,1,FullLength,OutsideOff,DeepFineLeg
+16,Rance,Medium,Babar Azam,1,FullLength,OutsideOff,DeepBackwardPoint
+15,Rance,Medium,Babar Azam,1,FullLength,OutsideOff,DeepCover
+15,Sodhi,Spin,Babar Azam,1,FullLength,Middle,DeepCover
+15,Sodhi,Spin,Babar Azam,4,FullLength,Middle,LongOff
+12,Wheeler,Fast,Babar Azam,0,ShortLength,Leg,DeepFineLeg
+11,Santner,Spin,Babar Azam,1,GoodLength,OutsideOff,DeepCover
+8,Sodhi,Spin,Babar Azam,2,ShortLength,Middle,Point
+8,Santner,Spin,Babar Azam,0,FullLength,OutsideOff,DeepBackwardPoint
+5,de Grandhomme,Fast,Babar Azam,4,GoodLength,OutsideOff,StraightHit
+5,de Grandhomme,Fast,Babar Azam,0,GoodLength,Middle,CowCorner
+5,Boult,Fast,Babar Azam,1,GoodLength,Middle,DeepSquareLeg
+4,Emrit,Fast,Babar Azam,-1,Yorker,Leg,CowCorner
+3,Emrit,Fast,Babar Azam,0,GoodLength,OutsideOff,ExraCover
+8,Williams,Fast,Babar Azam,4,ShortLength,OutsideOff,StraightHit
+4,Emrit,Fast,Babar Azam,4,ShortLength,OutsideOff,DeepCover
+20,Smith,Fast,Babar Azam,-1,GoodLength,Middle,MidWicket
+13,Emrit,Fast,Babar Azam,0,ShortLength,OutsideOff,DeepCover
+11,Badree,Spin,Babar Azam,2,GoodLength,Middle,DeepCover
+11,Badree,Spin,Babar Azam,2,FullLength,Leg,DeepFineLeg
+2,Southee,Fast,BabarAzam,0,GoodLength,OutsideOff,DeepExtraCover
+15,MichaelBracewell,Spin,BabarAzam,0,FullLength,OutsideOff,DeepCover
+12,Sodhi,Spin,BabarAzam,0,FullLength,Off,LongOff
+10,Southee,Fast,BabarAzam,0,FullLength,Middle,SquareLeg
+9,Boult,Fast,BabarAzam,0,GoodLength,OutsideOff,StraightHit
+8,Southee,Fast,BabarAzam,1,GoodLength,Middle,Point
+2,Boult,Fast,BabarAzam,0,ShortLength,OutsideOff,StraightHit
+9,Ebadot Hossain,Fast,BabarAzam,0,ShortLength,OutsideOff,StraightHit
+9,Nasum,Spin,BabarAzam,0,FullLength,OutsideOff,DeepCover
+6,Nasum,Spin,BabarAzam,0,FullLength,OutsideOff,DeepBackwardPoint
+4,Taskin,Fast,BabarAzam,0,FullLength,OutsideOff,DeepCover
+3,Taskin,Fast,BabarAzam,0,FullLength,OutsideOff,DeepBackwardPoint
+16,Ngarava,Fast,BabarAzam,0,FullLength,OutsideOff,DeepFineLeg
+15,Saifuddin,Fast,Babar Azam,4,FullLength,OutsideOff,StraightHit
+16,Madushanka,Fast,Babar Azam,0,GoodLength,Off,DeepCover
+15,Ngidi,Fast,Babar Azam,0,GoodLength,Off,DeepCover
